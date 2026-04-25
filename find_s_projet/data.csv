@@ -1,0 +1,8 @@
+StudyHours,Attendance,Assignments,Result
+High,Good,Yes,Pass
+High,Good,Yes,Pass
+Low,Poor,No,Fail
+Medium,Good,Yes,Pass
+Low,Good,No,Fail
+High,Average,Yes,Pass
+Medium,Poor,No,Fail
